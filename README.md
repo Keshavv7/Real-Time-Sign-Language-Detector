@@ -15,12 +15,12 @@ realtime_tester.ipynb: The realtime_tester notebook uses the trained model to pe
 1. Clone the repository to your local machine:
 
 2. Set-up the environment in your machine. Here is the list of dependencies used:
-   a) Python : 3.11.4
-   b) Tensorflow: 2.12
-   c) OpenCV: 4.8
-   d) Mediapipe: 0.10.2
-   e) Numpy: 1.23.5
-   f) Matplotlib: 3.7.2
+   * Python : 3.11.4
+   * Tensorflow: 2.12
+   * OpenCV: 4.8
+   * Mediapipe: 0.10.2
+   * Numpy: 1.23.5
+   * Matplotlib: 3.7.2
 
 3. Data Generation: Execute the data_generator.ipynb notebook to generate training data by recording images and extracting keypoints. The data is then stored in a directory called MP_Data. 
 
